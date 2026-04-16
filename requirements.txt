@@ -1,7 +1,7 @@
 streamlit
 ultralytics
-opencv-python-headless
 numpy
 easyocr
 pandas
 openpyxl
+opencv-python-headless==4.8.1.78
